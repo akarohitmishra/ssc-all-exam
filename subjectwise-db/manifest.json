@@ -1,0 +1,169 @@
+{
+ "exams": {
+  "SSC-CGL": {
+   "counts": {
+    "pre/ENG": 6050,
+    "pre/MATH": 6050,
+    "pre/REAS": 6050,
+    "pre/GK": 6050,
+    "mains/ENG": 360,
+    "mains/MATH": 240,
+    "mains/REAS": 240,
+    "mains/GK": 200,
+    "mains/COMPUTER": 160
+   },
+   "years": {
+    "pre": [
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ],
+    "mains": [
+     "2023",
+     "2024",
+     "2025",
+     "2026"
+    ]
+   },
+   "total": 25400
+  },
+  "SSC-CHSL": {
+   "counts": {
+    "pre/ENG": 6880,
+    "pre/MATH": 7475,
+    "pre/REAS": 7978,
+    "pre/GK": 7566,
+    "mains/ENG": 160,
+    "mains/MATH": 120,
+    "mains/REAS": 120,
+    "mains/GK": 80,
+    "mains/COMPUTER": 60
+   },
+   "years": {
+    "pre": [
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ],
+    "mains": [
+     "2022",
+     "2023",
+     "2024"
+    ]
+   },
+   "total": 30439
+  },
+  "SSC-CPO": {
+   "counts": {
+    "pre/ENG": 2999,
+    "pre/MATH": 3003,
+    "pre/REAS": 2997,
+    "pre/GK": 3001,
+    "mains/ENG": 1000
+   },
+   "years": {
+    "mains": [
+     "2019",
+     "2021",
+     "2022",
+     "2023"
+    ],
+    "pre": [
+     "2019",
+     "2020",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "total": 13000
+  },
+  "SSC-GD": {
+   "counts": {
+    "pre/ENG": 6845,
+    "pre/MATH": 6845,
+    "pre/REAS": 6845,
+    "pre/GK": 6845
+   },
+   "years": {
+    "pre": [
+     "2019",
+     "2021",
+     "2022",
+     "2024",
+     "2025",
+     "2026"
+    ]
+   },
+   "total": 27380
+  },
+  "SSC-MTS": {
+   "counts": {
+    "pre/ENG": 7350,
+    "pre/MATH": 6525,
+    "pre/REAS": 6525,
+    "pre/GK": 7350
+   },
+   "years": {
+    "pre": [
+     "2019",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "total": 27750
+  },
+  "SSC-Selection-Post": {
+   "counts": {
+    "pre/ENG": 3000,
+    "pre/MATH": 2998,
+    "pre/REAS": 3002,
+    "pre/GK": 2975
+   },
+   "years": {
+    "pre": [
+     "2019",
+     "2020",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "total": 11975
+  },
+  "SSC-Stenographer": {
+   "counts": {
+    "pre/ENG": 4500,
+    "pre/MATH": 1,
+    "pre/REAS": 2249,
+    "pre/GK": 2250
+   },
+   "years": {
+    "pre": [
+     "2019",
+     "2020",
+     "2021",
+     "2022",
+     "2023",
+     "2024",
+     "2025"
+    ]
+   },
+   "total": 9000
+  }
+ },
+ "grand_total": 144944
+}
