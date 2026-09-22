@@ -59,7 +59,7 @@ The original paper files exactly as scraped (one JSON per paper, exam/tier/year/
 ### What was removed and why
 
 1. **Hindi translation segments** (41,416 fields across 1,376 papers): every solution and option carried the same explanation twice — once in English, once in Hindi. All Hindi segments stripped, English kept.
-2. **Hindi-section questions in SSC-GD** (4,620 questions): GD Constable includes a Hindi-language section (concepts like वाक्य, मुहावरे, पर्यायवाची — Hindi grammar/vocab). These are Hindi-language test items, so per the English-only requirement they are **removed from the raw files** (27,380 GD questions remain, matching the subjectwise DB exactly).
+2. **Hindi-section questions in SSC-GD** (4,620 questions): GD Constable includes a Hindi-language section (Hindi grammar/vocabulary concept labels such as sentence-types, idioms, synonyms, antonyms, word-forms). These are Hindi-language test items, so per the English-only requirement they are **removed from the raw files** (27,380 GD questions remain, matching the subjectwise DB exactly).
 
 This is why GD raw questions (27,380) do not equal the raw scrape total (32,000) — the difference is exactly the Hindi section, removed on purpose. All other exams keep their full question counts.
 
