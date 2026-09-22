@@ -3,8 +3,8 @@
 Two English-only SSC previous-year-question datasets, rebuilt 2026-09-22. **Zero Hindi anywhere** — verified programmatically over every file (Devanagari scan = 0 hits across all 1,610 files).
 
 ```
-subjectwise-db/   <- cleaned subject-wise question database (the analysis-ready DB)
-all-exam/         <- the raw scraped paper files, exam by exam (the source papers)
+subjectwise-db/ <- cleaned subject-wise question database (the analysis-ready DB)
+all-exam/ <- the raw scraped paper files, exam by exam (the source papers)
 ```
 
 ---
@@ -38,7 +38,7 @@ all-exam/         <- the raw scraped paper files, exam by exam (the source paper
 
 ### Why did some content say the same thing twice? (the "2 times" question)
 
-The original scraped solutions were **bilingual**: an English explanation followed by the same point repeated in Hindi, e.g. "Inflection Point (महत्वपूर्ण मोड़)" or "flows (बहना)". That is why many rows looked duplicated. In this dataset all Hindi translation segments have been **stripped** (13,619 cleanups in this DB): only the English text remains. Where a whole *question* belongs to a Hindi-language section (see below) it was removed entirely.
+The original scraped solutions were **bilingual**: an English explanation followed by the same point repeated in Hindi, e.g. "Inflection Point" or "flows". That is why many rows looked duplicated. In this dataset all Hindi translation segments have been **stripped** (13,619 cleanups in this DB): only the English text remains. Where a whole *question* belongs to a Hindi-language section (see below) it was removed entirely.
 
 ---
 
